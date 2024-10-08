@@ -1,4 +1,4 @@
-# 32-to-64-bit-conversion
+# 64-to-32-bit-conversion
 
 The function in this repo converts 64 bit integers to 32 bit integers using the IEEE 754 format.
 
